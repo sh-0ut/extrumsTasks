@@ -43,6 +43,6 @@ router.post('/login', async (req, res) => {
 Data validation is required . For example, using the library [Joi.js](https://www.npmjs.com/package/joi)
 
 # What can be improved:
-All routes, can be modified midlewares, which will act as an authorization mechanism and protect routes from unauthorized access
+All routes, can be modified with midlewares, which will act as an authorization mechanism and protect routes from unauthorized access
 
 > repository: https://github.com/vinsdragonis/Project-Nexus
